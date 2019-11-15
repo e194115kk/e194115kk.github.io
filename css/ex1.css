@@ -1,0 +1,24 @@
+h1{
+    background-color:azure;
+    color:darkturquoise;
+    font-weight:bold;
+    text-align: center;
+}
+
+h2{
+    background-color: aquamarine;
+    text-align: center;
+}
+
+body{
+    background-image: url("../images/images4.png");
+    
+}
+
+table{
+    background-color:azure;
+}
+
+ol{
+    background-image: url("../images/images3.png");
+}
