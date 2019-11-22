@@ -1,0 +1,35 @@
+h1.aaa{
+    background-color: azure ;
+    color: mediumaquamarine;
+    font-size: 50px;
+    font-weight:bold;
+    text-align: center;
+}
+h1.bbb{
+    background-color:darkcyan ;
+    color :floralwhite;
+    font-size: 50px;
+    font-weight:bold;
+    text-align: center;
+}
+
+h2.aaa{
+    background-color:darkblue;
+    text-align: center;
+}
+
+h2.bbb{
+    background-color:cornflowerblue;
+    text-align: center;
+}
+
+
+
+
+p{
+    color:black;
+}
+body{
+    background-image: url("../images/images9.png");
+    
+}
