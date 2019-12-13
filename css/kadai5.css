@@ -1,0 +1,74 @@
+div.title{
+    width:1000px;
+    height:40px;
+    background-color: gray;
+    text-align: left;
+    font-size: 15px;
+    font-family: "impact";
+}
+
+div.middle{
+    width:1000px;
+    height:320px;
+    background-color:azure;
+    margin: 10px 0px;
+    font-size: 0;
+}
+
+div.left{
+    width: 250px;
+    height:320px;
+    background-color: darkgray;
+    display:inline-block;
+    vertical-align: top;
+    text-align: center;
+    margin-right: 50px;
+    font-size: 40px;
+}
+
+div.right{
+    width: 700px;
+    height:320px;
+    background: red;
+    display:inline-block;
+    vertical-align:top;
+    text-align: center;
+    margin:0px;
+    font-size: 40px;
+}
+
+div.footer{
+    width:1000px;
+    height:40px;
+    background-color: orange;
+    text-align: right;
+    font-size: 15px;
+}
+
+div.menu1{
+    width: 250px;
+    height: 100px;
+    background-color:red;
+    font-size:15px;
+    margin-bottom: 10px;
+}
+
+div.gazou{
+    width:700px;
+    height:300px;
+    background-color:black;
+}
+
+div.bunsho{
+    width:700px;
+    height:20px;
+    font-size:15px;
+    text-align:left;
+    background-color:blue;
+        
+}
+
+div.wrap{
+    width: 1000px;
+    margin: 0px auto;
+}
